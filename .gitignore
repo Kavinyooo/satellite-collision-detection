@@ -1,0 +1,65 @@
+# ==========================
+# Xilinx ISE Generated Files
+# ==========================
+
+isim/
+xst/
+_xmsgs/
+iseconfig/
+
+*.bld
+*.cmd_log
+*.lso
+*.ncd
+*.ngc
+*.ngd
+*.ngr
+*.pad
+*.par
+*.pcf
+*.prj
+*.ptwx
+*.stx
+*.syr
+*.twr
+*.twx
+*.ut
+*.xpi
+*.xrpt
+*.xise
+*.gise
+
+# ==========================
+# Simulation Files
+# ==========================
+
+*.wdb
+*.vcd
+*.vvp
+*.jou
+*.log
+*.pb
+*.str
+
+# ==========================
+# Temporary Files
+# ==========================
+
+*.tmp
+*.bak
+*.swp
+*~
+
+# ==========================
+# IDE Settings
+# ==========================
+
+.vscode/
+.idea/
+
+# ==========================
+# Operating System Files
+# ==========================
+
+.DS_Store
+Thumbs.db
