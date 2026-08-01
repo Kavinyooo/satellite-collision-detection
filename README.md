@@ -63,13 +63,6 @@ satellite-collision-detection/
 |---------|-------------|
 | collision_alert | High when satellites are too close |
 
----
-
-## 🧪 Simulation
-
-### Collision Detection Waveform
-
-![Waveform](simulation/waveform.png)
 
 ---
 
