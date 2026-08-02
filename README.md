@@ -37,7 +37,6 @@ satellite-collision-detection/
 ├── src/
 ├── testbench/
 ├── simulation/
-├── docs/
 ├── README.md
 ├── LICENSE
 └── .gitignore
